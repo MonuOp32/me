@@ -1,6 +1,6 @@
 # me
 <h1 align="center">Hy 👋, I'm Monu Rawani</h1>
-<img align="right" alt="coder" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A996%2F0*JqSPrPfQ72m3wLNu.gif&tbnid=fGY5Qhxym8PDlM&vet=12ahUKEwi9iajB8KSAAxXK2zgGHaAJAYMQMyggegUIARDiAg..i&imgrefurl=https%3A%2F%2Fiamdefinitelyahuman.medium.com%2Fan-in-depth-guide-to-testing-ethereum-smart-contracts-2e41b2770297&docid=jbg7Jp_FSWRhPM&w=498&h=373&q=animated%20cute%20coding%20gif&ved=2ahUKEwi9iajB8KSAAxXK2zgGHaAJAYMQMyggegUIARDiAg)">
+<img align="right" alt="coder" width="400" src="(https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A996%2F0*JqSPrPfQ72m3wLNu.gif&tbnid=fGY5Qhxym8PDlM&vet=12ahUKEwi9iajB8KSAAxXK2zgGHaAJAYMQMyggegUIARDiAg..i&imgrefurl=https%3A%2F%2Fiamdefinitelyahuman.medium.com%2Fan-in-depth-guide-to-testing-ethereum-smart-contracts-2e41b2770297&docid=jbg7Jp_FSWRhPM&w=498&h=373&q=animated%20cute%20coding%20gif&ved=2ahUKEwi9iajB8KSAAxXK2zgGHaAJAYMQMyggegUIARDiAg)">
 <h3 align="center">A passionate ethical hacking & software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monuop32&label=Profile%20views&color=0e75b6&style=flat" alt="monuop32" /> </p>
